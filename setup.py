@@ -22,7 +22,7 @@ setup(
         'numpy',
         'geopandas',
         'scipy',
-        'Cartopy<0.20',
+        'Cartopy',
         # I/O
         'rasterio',
         'fiona',
